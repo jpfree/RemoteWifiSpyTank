@@ -2,7 +2,8 @@
 
 ![YD-211S](/YD-211S.png)
 
-[Readme English Ver.](/readme_en.md)
+[Readme English Ver.](/readme_en.md)破解无线视频坦克YD-211S_哔哩哔哩_bilibili
+https://www.bilibili.com/video/av81475339/?vd_source=426d4005d5247628a71bf44669b416c8
 
 本项目旨在分享一种操作Wifi视频坦克YD-211S的工具，为有志于学习图像处理、计算机视觉及人工智能的同学及吃瓜群众提供一种获得廉价可用的移动视觉平台新思路。本项目是非官方的非盈利项目，作者与该坦克的生产厂商、经销渠道等实体无任何商业合作关系。如果有幸能够帮助到您，请务必告诉作者让他开心一下。
 
